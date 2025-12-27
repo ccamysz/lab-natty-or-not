@@ -1,20 +1,28 @@
-# A Jornada da IA: Um Passeio pelo Futuro 🌌
+StudyFlow: Organizando seus Estudos com IA 📚✨
+📒 Descrição
 
-## 📒 Descrição
-Este e-book de 5 páginas explora o impacto revolucionário das IAs Generativas no nosso dia a dia e como elas moldarão o futuro.
+Este projeto apresenta uma experiência de organização de estudos utilizando IAs Generativas, demonstrando como a inteligência artificial pode auxiliar na criação de rotinas de aprendizado personalizadas, materiais de apoio e conteúdos educativos de forma prática e eficiente.
 
-## 🤖 Tecnologias Utilizadas
-- IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização;
-- IA Generativa **[Leonardo AI](https://leonardo.ai)** para criar a arte visual do e-book;
-- Ferramenta **Libre Office** para edição.
+🤖 Tecnologias Utilizadas
 
-## 🧐 Processo de Criação
-Utilizei o "ChatGPT" para revisar minha pesquisa sobre IAs Generativas, estruturar o conteúdo e refinar minhas ideias. Por outro lado, o "Leonardo AI" foi usado para gerar imagens exclusivas para o nosso e-book. Para concluir, a montagem final foi feita no Libre Office, por ser uma ferramenta open-source para edição de texto.
+IA Generativa ChatGPT para criação da rotina de estudos, explicações de conteúdos e estrutura do projeto;
 
-## 🚀 Resultados
-O e-book apresenta um conteúdo envolvente e visualmente rico, demonstrando como as IAs Genativas podem ser uma ferramenta poderosa na educação e na disseminação do conhecimento.
+IA Generativa Leonardo AI para criação da identidade visual e imagens ilustrativas;
 
-[LINK PARA O E-BOOK AQUI]()
+Ferramenta Canva para edição e organização dos materiais visuais.
 
-## 💭 Reflexão
-Criar este e-book foi uma experiência reveladora sobre o potencial criativo das IAs e como elas podem ser aplicadas em diferentes contextos.
+🧐 Processo de criação
+
+Utilizei o ChatGPT para estruturar a ideia do projeto, definir o nome, criar uma rotina de estudos organizada e desenvolver explicações simples para os conteúdos propostos.
+Em paralelo, o Leonardo AI foi utilizado para gerar imagens e elementos visuais que representassem o conceito educacional do projeto.
+Por fim, todo o material visual foi organizado e refinado no Canva, garantindo uma apresentação clara e visualmente agradável.
+
+🚀 Resultados
+
+O projeto resultou em um conjunto de materiais educativos bem estruturados, demonstrando como as IAs Generativas podem otimizar o processo de aprendizagem, tornando-o mais acessível e personalizado.
+
+🔗https://gamma.app/docs/StudyFlow-Organizando-seus-Estudos-com-IA-ce66kr1p96apf7t
+
+💭 Reflexão
+
+Desenvolver este projeto evidenciou como as IAs Generativas podem atuar como facilitadoras do aprendizado, ampliando possibilidades criativas e tornando a organização dos estudos mais eficiente.
